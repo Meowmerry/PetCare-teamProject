@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 HeLlO, WOlrD!!!!!!
 =======
-<<<<<<< HEAD
 Hello Mars eiei
-=======
 Moshi Moshi by Tent
 Hello Mars by hok
->>>>>>> c6c831b6464b0171448051f1a0f240414ce074d8
->>>>>>> 81515a7a5e78c15895cf96fee61740e2a08a791e
+
